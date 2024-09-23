@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **computer science Engineering At Adamas University**
 
-- 👨‍💻 All of my projects are available at [webdesert.in](webdesert.in)
+- 👨‍💻 All of my projects are available at [webdesert.in](https://webdesert.in)
 
 - 📫 My Email ID **malojyotirmoy@gmail.com**
 
