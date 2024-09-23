@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jyotirmoy Malo</h1>
+<img src="https://res.cloudinary.com/ds2xh85dt/image/upload/v1727112778/Jyotirmoy_Malo-min_wntbjs.webp" style="background-size:cover;"><h1 align="center">Hi 👋, I'm Jyotirmoy Malo</h1>
 <h3 align="center">computer science engineering student at adamas university under graduate 🎓<br><br>and a freelancer since 2020 on web development and designing 🌐<br><br> my hobby is knowing new technologies and researching on them 📖<br><br> Visit My Company Website <a href="https://webdesert.in" style="font-weight:700;">webdesert.in</a><br><br></h3>
 
 <p align="left"> <a href="https://twitter.com/jyotirmoymalo" target="blank"><img src="https://img.shields.io/twitter/follow/jyotirmoymalo?logo=twitter&style=for-the-badge" alt="jyotirmoymalo" /></a> </p>
