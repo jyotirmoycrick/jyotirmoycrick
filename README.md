@@ -17,11 +17,13 @@
 
 - 🙏 My Few Projects are (not all)
 
+  0. <a href="https://apollopharma.netlify.app/">Apollo pharmecy clone</a>
   1. <a href="https://sundarbantourexpert.com">Sundarban Tour Expert</a>
   2. <a href="https://aiugsee.co.in">Scholarship Portal(aiugsee)</a>
   3. <a href="https://webdesert.in">webdesert.in</a>
   4. <a href="https://academy.aiugsee.co.in">Freelancing Academy</a>
   5. <a href="https://gamakmithila.com">Gamak Mithila</a>
+  5. <a href="https://spotify-clone-malo.netlify.app/">spotify Clone</a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
