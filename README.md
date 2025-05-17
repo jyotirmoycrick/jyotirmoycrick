@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=200&section=header&text=Jyotirmoy%20Malo&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-<h2 align="center">🚀 Tech Enthusiast | Full-Stack Developer | AI/ML Explorer</h2>
+<h2 align="center">🚀 Tech Enthusiast | Full-Stack Developer | Data Scientist Begineer </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0072FF&width=435&lines=Computer+Science+Engineer;Freelancer+%7C+Tech+Explorer;Building+Web+%26+AI+Solutions;Let's+Innovate!" alt="Typing SVG" />
