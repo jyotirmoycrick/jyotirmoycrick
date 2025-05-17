@@ -30,7 +30,7 @@ others: [Git, Linux, Docker, WordPress]
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,php,mysql,python,java,docker,git,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,MySQL,MongoDB,bootstrap,c,cpp,python,java,git,aws,linux,wordpress" />
 </p>
 
 ---
