@@ -12,9 +12,9 @@
 
 - 🎓 **CSE Undergraduate** at Adamas University
 - 🌐 **Freelancing Since 2020** | Web Development & Design
-- 🔍 **Passionate About** AI/ML & Emerging Technologies
-- 🏢 Founder of **[WebDesert Technologies](https://webdesert.in)**
-- 🎯 **Currently Learning** AI, Full Stack, and Competitive Programming
+- 🔍 **Passionate About** Data Science & Emerging Technologies
+- 🏢 Founder of **[Webdesert Technologies](https://webdesert.in)**
+- 🎯 **Currently Learning** Data Science, Full Stack, and Competitive Programming
 - 📩 Reach me: **[malojyotirmoy@gmail.com](mailto:malojyotirmoy@gmail.com)**
 
 ---
@@ -23,14 +23,14 @@
 
 ```yaml
 backend: [Node.js, Express.js, PHP, Python, Java]
-database: [MySQL, Firebase, MongoDB]
-frontend: [React.js, Next.js, HTML, CSS, JavaScript, Bootstrap]
-cloud: [AWS, Digital Ocean, Netlify, Vercel]
-others: [Git, Linux, Docker, WordPress]
+database: [MySQL, MongoDB]
+frontend: [ HTML, CSS, JavaScript, Bootstrap]
+cloud: [AWS, Netlify, Vercel, Hostinger]
+others: [Git, Linux, WordPress]
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,MySQL,MongoDB,bootstrap,c,cpp,python,java,git,aws,linux,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,mongodb,bootstrap,c,cpp,python,java,git,aws,linux,wordpress" />
 </p>
 
 ---
